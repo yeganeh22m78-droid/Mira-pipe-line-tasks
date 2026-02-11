@@ -6,7 +6,7 @@ The purpose of this repository is to document, implement, and submit coursework 
 
 ---
 
-## 📚 Course Description
+
 
 The Object-Oriented Programming course focuses on designing and building software using object-oriented concepts and principles.
 
@@ -25,7 +25,7 @@ Throughout this course, the tasks cover:
 
 ---
 
-## 📂 Repository Structure
+
 
 Each folder represents a specific assignment or task.
 
