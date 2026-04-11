@@ -1,5 +1,5 @@
 # Mira-pipe-line-tasks
-# Object-Oriented Programming (OOP) Course Tasks
+# Object-Oriented Programming (OOP) Course Tasks and data base SQL
 
 This repository contains my university assignments and practical tasks for the **Object-Oriented Programming (OOP)** course.  
 The purpose of this repository is to document, implement, and submit coursework related to object-oriented design and programming principles.
